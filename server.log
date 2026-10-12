@@ -1,0 +1,14 @@
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [48328]
+INFO:     Started server process [81613]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:38736 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38736 - "GET /static/style.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38740 - "GET /static/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38736 - "DELETE /api/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38736 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38736 - "POST /api/chat HTTP/1.1" 200 OK
